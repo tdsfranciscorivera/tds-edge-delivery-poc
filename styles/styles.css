@@ -18,6 +18,20 @@
   --light-color: #eee;
   --dark-color: #ccc;
   --text-color: black;
+  --cards-bg-color:red;
+  --tds-teal:#005758;
+  --tds-deep-teal:#003031;
+  --tds-aqua:#08BED5;
+  --tds-chartruse:#CCD814;
+  --tds-black:#000000;
+  --tds-cool-gray-8:#888B8D;
+  --tds-cool-gray-10:#63666A;
+  --tds-white:#ffffff;
+  --tds-charcoal:#262626;
+  --tds-cool-gray9:#727679;
+  --tds-neutral-gray-2:#E4E5E6;
+  --tds-neutral-gray-1:#F8F8F8;
+
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback;
@@ -214,7 +228,7 @@ main .section {
 
 @media (width >= 900px) {
   .section > div {
-    max-width: 1200px;
+    max-width: 1344px;
     margin: auto;
   }
 }
